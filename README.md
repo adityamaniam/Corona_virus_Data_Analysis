@@ -1,1 +1,2 @@
 # Corona_virus_Data_Analysis
+In this project a dataset with 45000 scholarly articles based on corona virus were used to identify the common risk factors involving transmission of corona virus, its prevention and treatment. Since covid is a type of corona virus we were hoping to find some useful information to help in the battle against covid 19. This project was done during march of 2019 and its really surprising to see how much relevant the results are when we look back at it today. 
